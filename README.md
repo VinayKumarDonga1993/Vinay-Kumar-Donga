@@ -1,4 +1,4 @@
-Hi I am Vinay Kumar,here is few lines about my Professional Summary
+Hi I am Vinay Kumar, here is my Professional Summary
 
 Over 5 years of professional experience in the areas of Cloud Computing, System Administration, Data Center Operations, Software Configuration Management, Build and Release Management and Linux Administration.
 
